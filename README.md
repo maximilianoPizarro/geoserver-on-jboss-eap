@@ -107,6 +107,7 @@ spec:
   storage:
     emptyDir: {}
 ```
+
 <p align="left">
   <img src="https://github.com/maximilianoPizarro/geoserver-on-jboss-eap/blob/main/geoserver_wilfly.PNG?raw=true" width="900" title="Run On Openshift">
 </p>
