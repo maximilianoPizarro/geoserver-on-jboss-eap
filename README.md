@@ -25,11 +25,10 @@ certified compliant Web Map Service (WMS), compliant Catalog Service for the Web
 and implementing Web Processing Service (WPS). 
 GeoServer forms a core component of the Geospatial Web.
 
-[JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform)
 
 ## Red Hat JBoss Enterprise Application Platform (JBoss EAP)
 
-Red Hat® JBoss® Enterprise Application Platform (JBoss EAP) delivers enterprise-grade security, performance, and scalability in any environment. Some features of JBoss EAP are:
+Red Hat® JBoss® Enterprise Application Platform [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) delivers enterprise-grade security, performance, and scalability in any environment. Some features of JBoss EAP are:
 
 Optimized for cloud and containers: with simplified deployment and full Jakarta EE performance for applications in any environment.
 
