@@ -94,7 +94,6 @@ spec:
     - name: PROXY_BASE_URL
       value: 'http://localhost:8080/geoserver'
   replicas: 1
-  serviceAccountName: geoserver-sa
   readinessProbe:
     httpGet:
       path: /geoserver
